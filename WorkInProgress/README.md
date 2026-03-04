@@ -27,3 +27,26 @@ Tech Educator, DIO[**](https://web.dio.me/project/acelere-sua-aprendizagem-co
 
 
 
+https://web.dio.me/lab/acelere-sua-aprendizagem-com-ia-explore-o-poder-do-notebooklm/learning/36ac21c8-859c-430b-aa28-1ea3521799b0?back=/track/bradesco-genai-dados
+
+
+
+- CONTEÚDOS
+- INFORMAÇÕES
+
+Introdução ao Desafio
+
+Overview do NotebookLMCase 
+
+Situation
+
+Listando Fontes de Dados
+
+Criando o notebook LM
+
+Analisando Formatos do Estudio
+
+Possibilidades
+
+
+
